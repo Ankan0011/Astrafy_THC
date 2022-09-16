@@ -1,4 +1,4 @@
-## Astrafy_THC
+## BigQuery Demo
 
 ### Prerequisite Application
 
